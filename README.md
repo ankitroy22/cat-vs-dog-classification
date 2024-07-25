@@ -47,5 +47,4 @@ This project uses a Convolutional Neural Network (CNN) to classify images of cat
 * `kaggle.json`: Kaggle API key file
 * `dogs-vs-cats.zip`: Dogs vs Cats dataset from Kaggle
 * `train` and `test` directories: Training and testing datasets
-* `model.py`: Python script containing the model architecture and training code
 * `README.md`: This file
